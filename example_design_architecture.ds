@@ -1,0 +1,31 @@
+Legend: [System Landscape] "Some description" "Why not"
+Element: "<b>Joe the Windurkind</b> &NBSP; Again" [Person] "This person is cool" actor-1 10 10 1200 2000
+Element: "<b>Resource Server</b>" [Software System] "Provides a resource to anyone" actor-3 100 300 1000 2000
+Connector: "Uses this service" ["ReST"] rel-4 id-connector-1 actor-1 actor-3 10 100 2000 10
+
+// A comment is here
+
+Legend: [Deployment View] "This view shows how the items are deployed" // Another comment
+// Must have a trailing NEWLINE
+
+////////////////   Another representation of the C4 structure
+// See https://kroki.io/#cheat-sheet
+// !include <C4/C4_Context>
+//
+// title System Context diagram for Internet Banking System
+//
+// Person(customer, "Banking Customer", "A customer of the bank, with personal bank accounts.")
+// System(banking_system, "Internet Banking System", "Allows customers to check their accounts.")
+//
+// System_Ext(mail_system, "E-mail system", "The internal Microsoft Exchange e-mail system.")
+// System_Ext(mainframe, "Mainframe Banking System", "Stores all of the core banking information.")
+//
+// Rel(customer, banking_system, "Uses")
+// Rel_Back(customer, mail_system, "Sends e-mails to")
+// Rel_Neighbor(banking_system, mail_system, "Sends e-mails", "SMTP")
+// Rel(banking_system, mainframe, "Uses")
+
+title [System Landscape] "Some description" "Why not"
+Person(actor-1, "<b>Joe the Windurkind</b> &NBSP; Again","This person is cool", 10, 10, 1200, 2000)
+Software(actor-3, "<b>Resource Server</b>", "Provides a resource to anyone", 100, 300, 1000, 2000)
+Rel(rel-4, actor-1, actor-3, "Uses this service" ["ReST"]",10 100 2000 10)

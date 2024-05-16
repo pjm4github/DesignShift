@@ -1,0 +1,6 @@
+workspace {
+   configuration {
+        scope softwaresystem
+    }
+
+}

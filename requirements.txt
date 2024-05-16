@@ -1,0 +1,12 @@
+pandas
+PyPDF2
+pillow
+python-pptx
+# pytesseract
+Spire.Presentation
+easyocr
+lxml
+opencv-python
+pymupdf
+pypdfium2
+antlr4-python3-runtime

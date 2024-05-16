@@ -1,0 +1,35 @@
+{
+  "configuration" : { },
+  "description" : "Description",
+  "documentation" : { },
+  "id" : 0,
+  "model" : {
+    "softwareSystems" : [ {
+      "documentation" : { },
+      "id" : "1",
+      "location" : "Unspecified",
+      "name" : "Software System",
+      "tags" : "Element,Software System"
+    } ]
+  },
+  "name" : "Name",
+  "views" : {
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "terminology" : { }
+    },
+    "systemContextViews" : [ {
+      "description" : "Description",
+      "elements" : [ {
+        "id" : "1",
+        "x" : 0,
+        "y" : 0
+      } ],
+      "enterpriseBoundaryVisible" : true,
+      "key" : "key",
+      "order" : 1,
+      "softwareSystemId" : "1"
+    } ]
+  }
+}
