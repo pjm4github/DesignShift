@@ -1,21 +1,18 @@
 # DesignShift
 
+## A Tool for Moving Architecture Diagrams between formats
+
 April 2024 (See ChatGPT)
 
 A collection of tools for expressing design ideas. 
-
-# Text Recognition Application
-
-## Overview
+### Overview
 This application leverages the EasyOCR library to perform text recognition on images. It is designed to quickly and accurately extract text from various image formats, supporting multiple languages.
 
-## Installation
-
+### Installation
 Before you can run this application, you'll need to install the required Python libraries. This project requires Python 3.6 or higher.
 
 ### Prerequisites
-- Python 3.6+
-- pip
+- Python 3.11+
 
 ### Libraries
 Install the following Python library using pip:
@@ -36,8 +33,8 @@ pip install antlr4-python3-runtime
 pip install pdf2image~=1.17.0
 pip install numpy~=1.26.4
 pip install PyYAML~=6.0.1
+pip install PyQt5
 ```
-
 
 ### Usage
 
@@ -49,27 +46,44 @@ Run the script using the following command:
 ```bash
 python DesignShift.py
 ```
-The script will output the recognized text directly in the terminal. If you want to process multiple files or use different languages, modify the text_recognition.py script accordingly.
+The code will attempt to recognized text and other objects from one format to another. 
+If you want to process multiple files or use different languages, modify the text_recognition.py script accordingly.
+
+There's a few expermental code components: like a GUI builder, and an Antlr4 grammar for Structurizr, and a 
+more generic version for DesignShift,
 
 ### Example Code
 
-Here's a quick snippet from the text_recognition.py:
+Here's a quick snippet from the DesignShift.py:
 
 ```python
-import easyocr
+import os
 
-def recognize_text(image_path):
-    reader = easyocr.Reader(['en'])  # For English
-    results = reader.readtext(image_path)
-    for result in results:
-        print(result[1])  # Outputs the recognized text
+from ShiftPdf import convert_pdf_to_png
+from ShiftPowerpoint import ppt_extraction
+from ShiftStructurizr import parse_structurizr
+from ShiftArchi import build_archi_xml
+from pathlib import Path
+DOWNLOADS_PATH = str(Path.home() / "Downloads")
+INCOMING_PATH = "./incoming"
+OUTGOING_PATH = "./outgoing"
 
-if __name__ == '__main__':
-    image_path = 'path_to_your_image.jpg'
-    recognize_text(image_path)
+
+if __name__ == "__main__":
+    my_pdf_file = 'ems-color-system-diagram.pdf'
+    convert_pdf_to_png(f'{INCOMING_PATH}/{my_pdf_file}')
+    run_directory = os.getcwd()
+    # slide_path = "US Electric GIS_Strategy_v01_debrief_11_21_22_summary.pptx
+    # slide_path = "PI Facilitation Pack March 2024 Plan. Work Execution v2.pptx"
+    structurizer_file = './dsl/amazon.dsl'
+    parse_structurizr(structurizer_file)
+    slide_path = f"{INCOMING_PATH}/connection.pptx"
+    print(f"Processing '{slide_path}'")
+    ppt_extraction(slide_path)
+
 ```
 
-Replace 'path_to_your_image.jpg' with the path to your actual image.
+Replace `my_pdf_file` with the file name to convert. Place the incoming file in the incoming directory. 
 
 ### Contributing
 

@@ -13,3 +13,4 @@ antlr4-python3-runtime
 pdf2image~=1.17.0
 numpy~=1.26.4
 PyYAML~=6.0.1
+PyQt5

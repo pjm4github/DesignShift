@@ -1,3 +1,6 @@
+"""
+Experimental code for building a GUI (like QtDesigner) in pure Python.
+"""
 import sys
 
 from PyQt5.QtGui import QDrag
