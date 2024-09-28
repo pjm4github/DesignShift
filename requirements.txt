@@ -1,12 +1,15 @@
-pandas
-PyPDF2
-pillow
+pandas~=2.2.2
+PyPDF2~=3.0.1
+pillow~=10.3.0
 python-pptx
 # pytesseract
 Spire.Presentation
-easyocr
-lxml
-opencv-python
+easyocr~=1.7.1
+lxml~=5.2.1
+opencv-python~=4.9.0.80
 pymupdf
-pypdfium2
+pypdfium2~=4.29.0
 antlr4-python3-runtime
+pdf2image~=1.17.0
+numpy~=1.26.4
+PyYAML~=6.0.1
