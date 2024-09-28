@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.opengroup.org/xsd/archimate/3.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.0/archimate3_Diagram.xsd"
+    identifier="id-1234">
+  <name xml:lang="en">connection slide-4</name>
+  <elements>
+    <element xsi:type="ApplicationComponent" identifier="app-2">
+      <name>Rectangle 1</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-3">
+      <name>Rectangle 2</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-4">
+      <name>Rectangle 3</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-5">
+      <name>Rectangle 4</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-6">
+      <name>Rectangle 5</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-7">
+      <name>Rectangle 6</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-8">
+      <name>Rectangle 7</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-9">
+      <name>Rectangle 8</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-10">
+      <name>Rectangle 9</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-11">
+      <name>Rectangle 10</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-12">
+      <name>Rectangle 11</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-13">
+      <name>Rectangle 12</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-14">
+      <name>Rectangle 13</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-15">
+      <name>Rectangle 14</name>
+      <documentation>none</documentation>
+     </element>
+  </elements>
+  <!-- Relationships -->
+  <organizations>
+    <item>
+      <label xml:lang="en">Business</label>
+    </item>
+    <item>
+      <label xml:lang="en">Application</label>
+      <item identifierRef="app-2" />
+      <item identifierRef="app-3" />
+      <item identifierRef="app-4" />
+      <item identifierRef="app-5" />
+      <item identifierRef="app-6" />
+      <item identifierRef="app-7" />
+      <item identifierRef="app-8" />
+      <item identifierRef="app-9" />
+      <item identifierRef="app-10" />
+      <item identifierRef="app-11" />
+      <item identifierRef="app-12" />
+      <item identifierRef="app-13" />
+      <item identifierRef="app-14" />
+      <item identifierRef="app-15" />
+    </item>
+    <item>
+      <label xml:lang="en">Relations</label>
+    </item>
+    <item>
+      <label xml:lang="en">Views</label>
+      <item identifierRef="view-1" />
+    </item>
+  </organizations>
+  <views>
+    <diagrams>
+      <view xsi:type="Diagram" identifier="view-1">
+        <name>Context View</name>
+        <node identifier="id-instance2" elementRef="app-2" xsi:type="Element" x="193" y="181" w="381" h="79"></node>
+        <node identifier="id-instance3" elementRef="app-3" xsi:type="Element" x="193" y="140" w="381" h="40"></node>
+        <node identifier="id-instance4" elementRef="app-4" xsi:type="Element" x="250" y="180" w="127" h="40"></node>
+        <node identifier="id-instance5" elementRef="app-5" xsi:type="Element" x="387" y="180" w="127" h="40"></node>
+        <node identifier="id-instance6" elementRef="app-6" xsi:type="Element" x="134" y="319" w="159" h="40"></node>
+        <node identifier="id-instance7" elementRef="app-7" xsi:type="Element" x="475" y="319" w="159" h="40"></node>
+        <node identifier="id-instance8" elementRef="app-8" xsi:type="Element" x="233" y="260" w="301" h="79"></node>
+        <node identifier="id-instance9" elementRef="app-9" xsi:type="Element" x="250" y="260" w="127" h="40"></node>
+        <node identifier="id-instance10" elementRef="app-10" xsi:type="Element" x="387" y="260" w="127" h="40"></node>
+        <node identifier="id-instance11" elementRef="app-11" xsi:type="Element" x="233" y="339" w="301" h="79"></node>
+        <node identifier="id-instance12" elementRef="app-12" xsi:type="Element" x="250" y="379" w="127" h="40"></node>
+        <node identifier="id-instance13" elementRef="app-13" xsi:type="Element" x="387" y="379" w="127" h="40"></node>
+        <node identifier="id-instance14" elementRef="app-14" xsi:type="Element" x="194" y="419" w="381" h="40"></node>
+        <node identifier="id-instance15" elementRef="app-15" xsi:type="Element" x="193" y="100" w="381" h="40"></node>
+      </view>
+    </diagrams>
+  </views>
+</model>

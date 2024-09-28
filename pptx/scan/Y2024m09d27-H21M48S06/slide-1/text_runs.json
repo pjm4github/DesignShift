@@ -1,0 +1,548 @@
+{
+    "page text": [
+        {
+            "slide": 1,
+            "id": 4,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 3",
+            "left": 7620000,
+            "top": 1828800,
+            "width": 1219200,
+            "height": 762000,
+            "text": "udp"
+        },
+        {
+            "slide": 1,
+            "id": 5,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 4",
+            "left": 7620000,
+            "top": 3124200,
+            "width": 1219200,
+            "height": 762000,
+            "text": "tcp"
+        },
+        {
+            "slide": 1,
+            "id": 6,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 5",
+            "left": 6400800,
+            "top": 1828800,
+            "width": 533400,
+            "height": 2147807,
+            "text": "transport"
+        },
+        {
+            "slide": 1,
+            "id": 7,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 6",
+            "left": 4267200,
+            "top": 1371600,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Server"
+        },
+        {
+            "slide": 1,
+            "id": 7,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 6",
+            "left": 4267200,
+            "top": 1625600,
+            "width": 1219200,
+            "height": 762000,
+            "text": "[Software System]"
+        },
+        {
+            "slide": 1,
+            "id": 7,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 6",
+            "left": 4267200,
+            "top": 1879600,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Serves a Solution to Problem"
+        },
+        {
+            "slide": 1,
+            "id": 8,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 7",
+            "left": 4273551,
+            "top": 3581400,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Client"
+        },
+        {
+            "slide": 1,
+            "id": 8,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 7",
+            "left": 4273551,
+            "top": 3835400,
+            "width": 1219200,
+            "height": 762000,
+            "text": "[Software System]"
+        },
+        {
+            "slide": 1,
+            "id": 8,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 7",
+            "left": 4273551,
+            "top": 4089400,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Runs the messages from the "
+        },
+        {
+            "slide": 1,
+            "id": 9,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 8",
+            "left": 4267200,
+            "top": 2522349,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Cache"
+        },
+        {
+            "slide": 1,
+            "id": 9,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 8",
+            "left": 4267200,
+            "top": 2903349,
+            "width": 1219200,
+            "height": 762000,
+            "text": "[Container: Online In-memory datastore]"
+        },
+        {
+            "slide": 1,
+            "id": 10,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 9",
+            "left": 1219202,
+            "top": 4343400,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Native Loader"
+        },
+        {
+            "slide": 1,
+            "id": 10,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 9",
+            "left": 1219202,
+            "top": 4597400,
+            "width": 1219200,
+            "height": 762000,
+            "text": "[Software System]"
+        },
+        {
+            "slide": 1,
+            "id": 10,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 9",
+            "left": 1219202,
+            "top": 4851400,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Loads the Native Library Components System"
+        },
+        {
+            "slide": 1,
+            "id": 11,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 10",
+            "left": 2057400,
+            "top": 2514600,
+            "width": 1219200,
+            "height": 762000,
+            "text": "XML Loader"
+        },
+        {
+            "slide": 1,
+            "id": 11,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 10",
+            "left": 2057400,
+            "top": 2768600,
+            "width": 1219200,
+            "height": 762000,
+            "text": "[Software System]"
+        },
+        {
+            "slide": 1,
+            "id": 11,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 10",
+            "left": 2057400,
+            "top": 3022600,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Converts from XML  format to Native format"
+        },
+        {
+            "slide": 1,
+            "id": 12,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 11",
+            "left": 381000,
+            "top": 2513955,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Json Loader"
+        },
+        {
+            "slide": 1,
+            "id": 12,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 11",
+            "left": 381000,
+            "top": 2767955,
+            "width": 1219200,
+            "height": 762000,
+            "text": "[Software System]"
+        },
+        {
+            "slide": 1,
+            "id": 12,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 11",
+            "left": 381000,
+            "top": 3021955,
+            "width": 1219200,
+            "height": 762000,
+            "text": "Converts from Json format to Native format"
+        },
+        {
+            "slide": 1,
+            "id": 13,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 12",
+            "left": 793751,
+            "top": 457200,
+            "width": 2057401,
+            "height": 762000,
+            "text": "Loader"
+        },
+        {
+            "slide": 1,
+            "id": 13,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 12",
+            "left": 793751,
+            "top": 711200,
+            "width": 2057401,
+            "height": 762000,
+            "text": "[Software System]"
+        },
+        {
+            "slide": 1,
+            "id": 13,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 12",
+            "left": 793751,
+            "top": 965200,
+            "width": 2057401,
+            "height": 762000,
+            "text": "Loads a data file."
+        },
+        {
+            "slide": 1,
+            "id": 16,
+            "name": "Elbow Connector 15",
+            "type": "LINE",
+            "left": 2851152,
+            "top": 838200,
+            "begin": [
+                2851152,
+                838200
+            ],
+            "end": [
+                4267200,
+                1752600
+            ],
+            "start_shape_id": 13,
+            "start_shape_index": 3,
+            "end_shape_id": 7,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 1,
+            "id": 18,
+            "name": "Elbow Connector 17",
+            "type": "LINE",
+            "left": 2851152,
+            "top": 838200,
+            "begin": [
+                2851152,
+                838200
+            ],
+            "end": [
+                4273551,
+                3962400
+            ],
+            "start_shape_id": 13,
+            "start_shape_index": 3,
+            "end_shape_id": 8,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 1,
+            "id": 22,
+            "name": "Elbow Connector 21",
+            "type": "LINE",
+            "left": 263527,
+            "top": 2778125,
+            "begin": [
+                3387727,
+                2778125
+            ],
+            "end": [
+                263527,
+                2784475
+            ],
+            "start_shape_id": 13,
+            "start_shape_index": 2,
+            "end_shape_id": 10,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 1,
+            "id": 26,
+            "name": "Elbow Connector 25",
+            "type": "LINE",
+            "left": 1597026,
+            "top": 1444626,
+            "begin": [
+                2892426,
+                1444626
+            ],
+            "end": [
+                1597026,
+                2289174
+            ],
+            "start_shape_id": 13,
+            "start_shape_index": 2,
+            "end_shape_id": 11,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 1,
+            "id": 36,
+            "name": "Elbow Connector 35",
+            "type": "LINE",
+            "left": 759149,
+            "top": 1450651,
+            "begin": [
+                759149,
+                1450651
+            ],
+            "end": [
+                2053904,
+                2282503
+            ],
+            "start_shape_id": 13,
+            "start_shape_index": 2,
+            "end_shape_id": 12,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 1,
+            "id": 38,
+            "name": "Elbow Connector 37",
+            "type": "LINE",
+            "left": 1714501,
+            "top": 3390901,
+            "begin": [
+                1714501,
+                3390901
+            ],
+            "end": [
+                2781301,
+                4229099
+            ],
+            "start_shape_id": 11,
+            "start_shape_index": 2,
+            "end_shape_id": 10,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 1,
+            "id": 40,
+            "name": "Elbow Connector 39",
+            "type": "LINE",
+            "left": 875979,
+            "top": 3390576,
+            "begin": [
+                1943424,
+                3390576
+            ],
+            "end": [
+                875979,
+                4228778
+            ],
+            "start_shape_id": 12,
+            "start_shape_index": 2,
+            "end_shape_id": 10,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 1,
+            "id": 62,
+            "name": "Elbow Connector 61",
+            "type": "LINE",
+            "left": 4682426,
+            "top": 2327974,
+            "begin": [
+                4682426,
+                2327974
+            ],
+            "end": [
+                5071175,
+                2340674
+            ],
+            "start_shape_id": 7,
+            "start_shape_index": 2,
+            "end_shape_id": 9,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 1,
+            "id": 71,
+            "name": "Elbow Connector 70",
+            "type": "LINE",
+            "left": 4731451,
+            "top": 3429699,
+            "begin": [
+                4731451,
+                3436050
+            ],
+            "end": [
+                5028502,
+                3429699
+            ],
+            "start_shape_id": 8,
+            "start_shape_index": 0,
+            "end_shape_id": 9,
+            "end_shape_index": 2
+        },
+        {
+            "slide": 1,
+            "id": 79,
+            "name": "Elbow Connector 78",
+            "type": "LINE",
+            "left": 5486400,
+            "top": 1752600,
+            "begin": [
+                5486400,
+                1752600
+            ],
+            "end": [
+                6400800,
+                2902704
+            ],
+            "start_shape_id": 7,
+            "start_shape_index": 3,
+            "end_shape_id": 6,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 1,
+            "id": 92,
+            "name": "Elbow Connector 91",
+            "type": "LINE",
+            "left": 6934200,
+            "top": 2209800,
+            "begin": [
+                6934200,
+                2902704
+            ],
+            "end": [
+                7620000,
+                2209800
+            ],
+            "start_shape_id": 6,
+            "start_shape_index": 3,
+            "end_shape_id": 4,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 1,
+            "id": 94,
+            "name": "Elbow Connector 93",
+            "type": "LINE",
+            "left": 6934200,
+            "top": 2902704,
+            "begin": [
+                6934200,
+                2902704
+            ],
+            "end": [
+                7620000,
+                3505200
+            ],
+            "start_shape_id": 6,
+            "start_shape_index": 3,
+            "end_shape_id": 5,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 1,
+            "id": 100,
+            "name": "Elbow Connector 99",
+            "type": "LINE",
+            "left": 5492751,
+            "top": 2902704,
+            "begin": [
+                5492751,
+                3962400
+            ],
+            "end": [
+                6400800,
+                2902704
+            ],
+            "start_shape_id": 8,
+            "start_shape_index": 3,
+            "end_shape_id": 6,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 1,
+            "id": 101,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 100",
+            "left": 7620000,
+            "top": 4495800,
+            "width": 1219200,
+            "height": 762000,
+            "text": "handler"
+        },
+        {
+            "slide": 1,
+            "id": 103,
+            "name": "Elbow Connector 102",
+            "type": "LINE",
+            "left": 6693654,
+            "top": 3950453,
+            "begin": [
+                7593847,
+                3950453
+            ],
+            "end": [
+                6693654,
+                4902953
+            ],
+            "start_shape_id": 6,
+            "start_shape_index": 2,
+            "end_shape_id": 101,
+            "end_shape_index": 1
+        }
+    ]
+}

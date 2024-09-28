@@ -1,0 +1,284 @@
+{
+    "page text": [
+        {
+            "slide": 3,
+            "id": 12,
+            "name": "Elbow Connector 15",
+            "type": "LINE",
+            "left": 2438401,
+            "top": 1219200,
+            "begin": [
+                2438401,
+                1219200
+            ],
+            "end": [
+                4267200,
+                1828800
+            ],
+            "start_shape_id": 11,
+            "start_shape_index": 3,
+            "end_shape_id": 5,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 13,
+            "name": "Elbow Connector 17",
+            "type": "LINE",
+            "left": 2438402,
+            "top": 5323356,
+            "begin": [
+                2438402,
+                5334000
+            ],
+            "end": [
+                4264572,
+                5323356
+            ],
+            "start_shape_id": 8,
+            "start_shape_index": 3,
+            "end_shape_id": 7,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 14,
+            "name": "Elbow Connector 21",
+            "type": "LINE",
+            "left": 152401,
+            "top": 3276599,
+            "begin": [
+                3505201,
+                3276599
+            ],
+            "end": [
+                152401,
+                3276600
+            ],
+            "start_shape_id": 11,
+            "start_shape_index": 2,
+            "end_shape_id": 8,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 3,
+            "id": 15,
+            "name": "Elbow Connector 25",
+            "type": "LINE",
+            "left": 1485900,
+            "top": 1943100,
+            "begin": [
+                3009900,
+                1943100
+            ],
+            "end": [
+                1485900,
+                2781299
+            ],
+            "start_shape_id": 11,
+            "start_shape_index": 2,
+            "end_shape_id": 9,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 3,
+            "id": 16,
+            "name": "Elbow Connector 35",
+            "type": "LINE",
+            "left": 648024,
+            "top": 1942777,
+            "begin": [
+                648024,
+                1942777
+            ],
+            "end": [
+                2171379,
+                2780978
+            ],
+            "start_shape_id": 11,
+            "start_shape_index": 2,
+            "end_shape_id": 10,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 3,
+            "id": 17,
+            "name": "Elbow Connector 37",
+            "type": "LINE",
+            "left": 1714501,
+            "top": 4000501,
+            "begin": [
+                1714501,
+                4000501
+            ],
+            "end": [
+                2781301,
+                4838699
+            ],
+            "start_shape_id": 9,
+            "start_shape_index": 2,
+            "end_shape_id": 8,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 3,
+            "id": 18,
+            "name": "Elbow Connector 39",
+            "type": "LINE",
+            "left": 875979,
+            "top": 4000176,
+            "begin": [
+                1943424,
+                4000176
+            ],
+            "end": [
+                875979,
+                4838378
+            ],
+            "start_shape_id": 10,
+            "start_shape_index": 2,
+            "end_shape_id": 8,
+            "end_shape_index": 0
+        },
+        {
+            "slide": 3,
+            "id": 19,
+            "name": "Elbow Connector 78",
+            "type": "LINE",
+            "left": 5483772,
+            "top": 3512304,
+            "begin": [
+                5483772,
+                5323356
+            ],
+            "end": [
+                6400800,
+                3512304
+            ],
+            "start_shape_id": 7,
+            "start_shape_index": 3,
+            "end_shape_id": 4,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 20,
+            "name": "Elbow Connector 91",
+            "type": "LINE",
+            "left": 6934200,
+            "top": 2819400,
+            "begin": [
+                6934200,
+                3512304
+            ],
+            "end": [
+                7620000,
+                2819400
+            ],
+            "start_shape_id": 4,
+            "start_shape_index": 3,
+            "end_shape_id": 2,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 21,
+            "name": "Elbow Connector 93",
+            "type": "LINE",
+            "left": 6934200,
+            "top": 3512304,
+            "begin": [
+                6934200,
+                3512304
+            ],
+            "end": [
+                7620000,
+                4114800
+            ],
+            "start_shape_id": 4,
+            "start_shape_index": 3,
+            "end_shape_id": 3,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 22,
+            "name": "Elbow Connector 19",
+            "type": "LINE",
+            "left": 2438401,
+            "top": 1219200,
+            "begin": [
+                2438401,
+                1219200
+            ],
+            "end": [
+                4267200,
+                2936996
+            ],
+            "start_shape_id": 11,
+            "start_shape_index": 3,
+            "end_shape_id": 6,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 23,
+            "name": "Elbow Connector 22",
+            "type": "LINE",
+            "left": 5486400,
+            "top": 1828800,
+            "begin": [
+                5486400,
+                1828800
+            ],
+            "end": [
+                6400800,
+                3512304
+            ],
+            "start_shape_id": 5,
+            "start_shape_index": 3,
+            "end_shape_id": 4,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 24,
+            "name": "Elbow Connector 24",
+            "type": "LINE",
+            "left": 5486400,
+            "top": 2936996,
+            "begin": [
+                5486400,
+                2936996
+            ],
+            "end": [
+                6400800,
+                3512304
+            ],
+            "start_shape_id": 6,
+            "start_shape_index": 3,
+            "end_shape_id": 4,
+            "end_shape_index": 1
+        },
+        {
+            "slide": 3,
+            "id": 26,
+            "name": "Elbow Connector 27",
+            "type": "LINE",
+            "left": 6667500,
+            "top": 4586208,
+            "begin": [
+                6667500,
+                4586208
+            ],
+            "end": [
+                7620000,
+                5486401
+            ],
+            "start_shape_id": 25,
+            "start_shape_index": 1,
+            "end_shape_id": 4,
+            "end_shape_index": 2
+        }
+    ]
+}

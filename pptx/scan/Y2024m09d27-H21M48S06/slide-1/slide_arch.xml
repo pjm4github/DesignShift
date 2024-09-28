@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.opengroup.org/xsd/archimate/3.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.0/archimate3_Diagram.xsd"
+    identifier="id-1234">
+  <name xml:lang="en">connection slide-1</name>
+  <elements>
+    <element xsi:type="ApplicationComponent" identifier="app-4">
+      <name>Rectangle 3</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-5">
+      <name>Rectangle 4</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-6">
+      <name>Rectangle 5</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-7">
+      <name>Rectangle 6</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-7">
+      <name>Rectangle 6</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-7">
+      <name>Rectangle 6</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-8">
+      <name>Rectangle 7</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-8">
+      <name>Rectangle 7</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-8">
+      <name>Rectangle 7</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-9">
+      <name>Rectangle 8</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-9">
+      <name>Rectangle 8</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-10">
+      <name>Rectangle 9</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-10">
+      <name>Rectangle 9</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-10">
+      <name>Rectangle 9</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-11">
+      <name>Rectangle 10</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-11">
+      <name>Rectangle 10</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-11">
+      <name>Rectangle 10</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-12">
+      <name>Rectangle 11</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-12">
+      <name>Rectangle 11</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-12">
+      <name>Rectangle 11</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-13">
+      <name>Rectangle 12</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-13">
+      <name>Rectangle 12</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-13">
+      <name>Rectangle 12</name>
+      <documentation>none</documentation>
+     </element>
+    <element xsi:type="ApplicationComponent" identifier="app-101">
+      <name>Rectangle 100</name>
+      <documentation>none</documentation>
+     </element>
+  </elements>
+  <relationships>
+    <relationship xsi:type="Association" identifier="rel-16" source="app-13" target="app-7">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-18" source="app-13" target="app-8">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-22" source="app-13" target="app-10">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-26" source="app-13" target="app-11">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-36" source="app-13" target="app-12">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-38" source="app-11" target="app-10">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-40" source="app-12" target="app-10">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-62" source="app-7" target="app-9">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-71" source="app-8" target="app-9">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-79" source="app-7" target="app-6">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-92" source="app-6" target="app-4">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-94" source="app-6" target="app-5">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-100" source="app-8" target="app-6">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-103" source="app-6" target="app-101">
+        <documentation>none</documentation>
+    </relationship>
+  </relationships>
+  <organizations>
+    <item>
+      <label xml:lang="en">Business</label>
+    </item>
+    <item>
+      <label xml:lang="en">Application</label>
+      <item identifierRef="app-4" />
+      <item identifierRef="app-5" />
+      <item identifierRef="app-6" />
+      <item identifierRef="app-7" />
+      <item identifierRef="app-7" />
+      <item identifierRef="app-7" />
+      <item identifierRef="app-8" />
+      <item identifierRef="app-8" />
+      <item identifierRef="app-8" />
+      <item identifierRef="app-9" />
+      <item identifierRef="app-9" />
+      <item identifierRef="app-10" />
+      <item identifierRef="app-10" />
+      <item identifierRef="app-10" />
+      <item identifierRef="app-11" />
+      <item identifierRef="app-11" />
+      <item identifierRef="app-11" />
+      <item identifierRef="app-12" />
+      <item identifierRef="app-12" />
+      <item identifierRef="app-12" />
+      <item identifierRef="app-13" />
+      <item identifierRef="app-13" />
+      <item identifierRef="app-13" />
+      <item identifierRef="app-101" />
+    </item>
+    <item>
+      <label xml:lang="en">Relations</label>
+      <item identifierRef="rel-16" />
+      <item identifierRef="rel-18" />
+      <item identifierRef="rel-22" />
+      <item identifierRef="rel-26" />
+      <item identifierRef="rel-36" />
+      <item identifierRef="rel-38" />
+      <item identifierRef="rel-40" />
+      <item identifierRef="rel-62" />
+      <item identifierRef="rel-71" />
+      <item identifierRef="rel-79" />
+      <item identifierRef="rel-92" />
+      <item identifierRef="rel-94" />
+      <item identifierRef="rel-100" />
+      <item identifierRef="rel-103" />
+    </item>
+    <item>
+      <label xml:lang="en">Views</label>
+      <item identifierRef="view-1" />
+    </item>
+  </organizations>
+  <views>
+    <diagrams>
+      <view xsi:type="Diagram" identifier="view-1">
+        <name>Context View</name>
+        <node identifier="id-instance4" elementRef="app-4" xsi:type="Element" x="667" y="160" w="107" h="67"></node>
+        <node identifier="id-instance5" elementRef="app-5" xsi:type="Element" x="667" y="273" w="107" h="67"></node>
+        <node identifier="id-instance6" elementRef="app-6" xsi:type="Element" x="560" y="160" w="47" h="188"></node>
+        <node identifier="id-instance7" elementRef="app-7" xsi:type="Element" x="373" y="120" w="107" h="67"></node>
+        <node identifier="id-instance7" elementRef="app-7" xsi:type="Element" x="373" y="142" w="107" h="67"></node>
+        <node identifier="id-instance7" elementRef="app-7" xsi:type="Element" x="373" y="164" w="107" h="67"></node>
+        <node identifier="id-instance8" elementRef="app-8" xsi:type="Element" x="374" y="313" w="107" h="67"></node>
+        <node identifier="id-instance8" elementRef="app-8" xsi:type="Element" x="374" y="336" w="107" h="67"></node>
+        <node identifier="id-instance8" elementRef="app-8" xsi:type="Element" x="374" y="358" w="107" h="67"></node>
+        <node identifier="id-instance9" elementRef="app-9" xsi:type="Element" x="373" y="221" w="107" h="67"></node>
+        <node identifier="id-instance9" elementRef="app-9" xsi:type="Element" x="373" y="254" w="107" h="67"></node>
+        <node identifier="id-instance10" elementRef="app-10" xsi:type="Element" x="107" y="380" w="107" h="67"></node>
+        <node identifier="id-instance10" elementRef="app-10" xsi:type="Element" x="107" y="402" w="107" h="67"></node>
+        <node identifier="id-instance10" elementRef="app-10" xsi:type="Element" x="107" y="424" w="107" h="67"></node>
+        <node identifier="id-instance11" elementRef="app-11" xsi:type="Element" x="180" y="220" w="107" h="67"></node>
+        <node identifier="id-instance11" elementRef="app-11" xsi:type="Element" x="180" y="242" w="107" h="67"></node>
+        <node identifier="id-instance11" elementRef="app-11" xsi:type="Element" x="180" y="264" w="107" h="67"></node>
+        <node identifier="id-instance12" elementRef="app-12" xsi:type="Element" x="33" y="220" w="107" h="67"></node>
+        <node identifier="id-instance12" elementRef="app-12" xsi:type="Element" x="33" y="242" w="107" h="67"></node>
+        <node identifier="id-instance12" elementRef="app-12" xsi:type="Element" x="33" y="264" w="107" h="67"></node>
+        <node identifier="id-instance13" elementRef="app-13" xsi:type="Element" x="69" y="40" w="180" h="67"></node>
+        <node identifier="id-instance13" elementRef="app-13" xsi:type="Element" x="69" y="62" w="180" h="67"></node>
+        <node identifier="id-instance13" elementRef="app-13" xsi:type="Element" x="69" y="84" w="180" h="67"></node>
+        <node identifier="id-instance101" elementRef="app-101" xsi:type="Element" x="667" y="393" w="107" h="67"></node>
+        <connection identifier="id-connector16" relationshipRef="rel-16" xsi:type="Relationship" source="id-instance13" target="id-instance7"></connection>
+        <connection identifier="id-connector18" relationshipRef="rel-18" xsi:type="Relationship" source="id-instance13" target="id-instance8"></connection>
+        <connection identifier="id-connector22" relationshipRef="rel-22" xsi:type="Relationship" source="id-instance13" target="id-instance10"></connection>
+        <connection identifier="id-connector26" relationshipRef="rel-26" xsi:type="Relationship" source="id-instance13" target="id-instance11"></connection>
+        <connection identifier="id-connector36" relationshipRef="rel-36" xsi:type="Relationship" source="id-instance13" target="id-instance12"></connection>
+        <connection identifier="id-connector38" relationshipRef="rel-38" xsi:type="Relationship" source="id-instance11" target="id-instance10"></connection>
+        <connection identifier="id-connector40" relationshipRef="rel-40" xsi:type="Relationship" source="id-instance12" target="id-instance10"></connection>
+        <connection identifier="id-connector62" relationshipRef="rel-62" xsi:type="Relationship" source="id-instance7" target="id-instance9"></connection>
+        <connection identifier="id-connector71" relationshipRef="rel-71" xsi:type="Relationship" source="id-instance8" target="id-instance9"></connection>
+        <connection identifier="id-connector79" relationshipRef="rel-79" xsi:type="Relationship" source="id-instance7" target="id-instance6"></connection>
+        <connection identifier="id-connector92" relationshipRef="rel-92" xsi:type="Relationship" source="id-instance6" target="id-instance4"></connection>
+        <connection identifier="id-connector94" relationshipRef="rel-94" xsi:type="Relationship" source="id-instance6" target="id-instance5"></connection>
+        <connection identifier="id-connector100" relationshipRef="rel-100" xsi:type="Relationship" source="id-instance8" target="id-instance6"></connection>
+        <connection identifier="id-connector103" relationshipRef="rel-103" xsi:type="Relationship" source="id-instance6" target="id-instance101"></connection>
+      </view>
+    </diagrams>
+  </views>
+</model>

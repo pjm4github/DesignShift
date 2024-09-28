@@ -1,0 +1,108 @@
+INFO:root:Processing the power point file ./incoming/connection.pptx
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left8.333, top: 2.0
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left8.333, top: 3.417
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left7.0, top: 2.0
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left4.667, top: 1.5
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left4.674, top: 3.917
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left4.667, top: 2.758
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left1.333, top: 4.75
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left2.25, top: 2.75
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left0.417, top: 2.749
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left0.868, top: 0.5
+DEBUG:ShiftPowerpoint:Elbow Connector 15 begin: -3.55, -2.83, end: -2.0, -1.83
+DEBUG:ShiftPowerpoint:Elbow Connector 17 begin: -3.55, -2.83, end: -1.99, 0.583
+DEBUG:ShiftPowerpoint:Elbow Connector 21 begin: -2.96, -0.712, end: -6.38, -0.705
+DEBUG:ShiftPowerpoint:Elbow Connector 25 begin: -3.5, -2.17, end: -4.92, -1.25
+DEBUG:ShiftPowerpoint:Elbow Connector 35 begin: -5.84, -2.16, end: -4.42, -1.25
+DEBUG:ShiftPowerpoint:Elbow Connector 37 begin: -4.79, -0.0417, end: -3.62, 0.875
+DEBUG:ShiftPowerpoint:Elbow Connector 39 begin: -4.54, -0.042, end: -5.71, 0.875
+DEBUG:ShiftPowerpoint:Elbow Connector 61 begin: -1.55, -1.2, end: -1.12, -1.19
+DEBUG:ShiftPowerpoint:Elbow Connector 70 begin: -1.49, 0.00771, end: -1.17, 0.000764
+DEBUG:ShiftPowerpoint:Elbow Connector 78 begin: -0.667, -1.83, end: 0.333, -0.576
+DEBUG:ShiftPowerpoint:Elbow Connector 91 begin: 0.917, -0.576, end: 1.67, -1.33
+DEBUG:ShiftPowerpoint:Elbow Connector 93 begin: 0.917, -0.576, end: 1.67, 0.0833
+DEBUG:ShiftPowerpoint:Elbow Connector 99 begin: -0.66, 0.583, end: 0.333, -0.576
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 1 at left8.333, top: 4.917
+DEBUG:ShiftPowerpoint:Elbow Connector 102 begin: 1.64, 0.57, end: 0.654, 1.61
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left8.333, top: 2.667
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left8.333, top: 4.083
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left7.0, top: 2.667
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left4.667, top: 1.583
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left4.667, top: 2.795
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left4.664, top: 5.405
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left1.333, top: 5.417
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left2.25, top: 3.417
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left0.417, top: 3.416
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left1.333, top: 0.917
+DEBUG:ShiftPowerpoint:Elbow Connector 15 begin: -4.0, -2.42, end: -2.0, -1.75
+DEBUG:ShiftPowerpoint:Elbow Connector 17 begin: -4.0, 2.08, end: -2.0, 2.07
+DEBUG:ShiftPowerpoint:Elbow Connector 21 begin: -2.83, -0.167, end: -6.5, -0.167
+DEBUG:ShiftPowerpoint:Elbow Connector 25 begin: -3.37, -1.62, end: -5.04, -0.708
+DEBUG:ShiftPowerpoint:Elbow Connector 35 begin: -5.96, -1.63, end: -4.29, -0.709
+DEBUG:ShiftPowerpoint:Elbow Connector 37 begin: -4.79, 0.625, end: -3.62, 1.54
+DEBUG:ShiftPowerpoint:Elbow Connector 39 begin: -4.54, 0.625, end: -5.71, 1.54
+DEBUG:ShiftPowerpoint:Elbow Connector 78 begin: -0.669, 2.07, end: 0.333, 0.0911
+DEBUG:ShiftPowerpoint:Elbow Connector 91 begin: 0.917, 0.0911, end: 1.67, -0.667
+DEBUG:ShiftPowerpoint:Elbow Connector 93 begin: 0.917, 0.0911, end: 1.67, 0.75
+DEBUG:ShiftPowerpoint:Elbow Connector 19 begin: -4.0, -2.42, end: -2.0, -0.538
+DEBUG:ShiftPowerpoint:Elbow Connector 22 begin: -0.667, -1.75, end: 0.333, 0.0911
+DEBUG:ShiftPowerpoint:Elbow Connector 24 begin: -0.667, -0.538, end: 0.333, 0.0911
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 2 at left8.333, top: 5.583
+DEBUG:ShiftPowerpoint:Elbow Connector 27 begin: 0.625, 1.27, end: 1.67, 2.25
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left8.333, top: 2.667
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left8.333, top: 4.083
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left7.0, top: 2.667
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left4.667, top: 1.583
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left4.667, top: 2.795
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left4.664, top: 5.405
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left1.333, top: 5.417
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left2.25, top: 3.417
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left0.417, top: 3.416
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left1.333, top: 0.917
+DEBUG:ShiftPowerpoint:Elbow Connector 15 begin: -4.0, -2.42, end: -2.0, -1.75
+DEBUG:ShiftPowerpoint:Elbow Connector 17 begin: -4.0, 2.08, end: -2.0, 2.07
+DEBUG:ShiftPowerpoint:Elbow Connector 21 begin: -2.83, -0.167, end: -6.5, -0.167
+DEBUG:ShiftPowerpoint:Elbow Connector 25 begin: -3.37, -1.62, end: -5.04, -0.708
+DEBUG:ShiftPowerpoint:Elbow Connector 35 begin: -5.96, -1.63, end: -4.29, -0.709
+DEBUG:ShiftPowerpoint:Elbow Connector 37 begin: -4.79, 0.625, end: -3.62, 1.54
+DEBUG:ShiftPowerpoint:Elbow Connector 39 begin: -4.54, 0.625, end: -5.71, 1.54
+DEBUG:ShiftPowerpoint:Elbow Connector 78 begin: -0.669, 2.07, end: 0.333, 0.0911
+DEBUG:ShiftPowerpoint:Elbow Connector 91 begin: 0.917, 0.0911, end: 1.67, -0.667
+DEBUG:ShiftPowerpoint:Elbow Connector 93 begin: 0.917, 0.0911, end: 1.67, 0.75
+DEBUG:ShiftPowerpoint:Elbow Connector 19 begin: -4.0, -2.42, end: -2.0, -0.538
+DEBUG:ShiftPowerpoint:Elbow Connector 22 begin: -0.667, -1.75, end: 0.333, 0.0911
+DEBUG:ShiftPowerpoint:Elbow Connector 24 begin: -0.667, -0.538, end: 0.333, 0.0911
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 3 at left8.333, top: 5.583
+DEBUG:ShiftPowerpoint:Elbow Connector 27 begin: 0.625, 1.27, end: 1.67, 2.25
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left2.417, top: 2.257
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left2.417, top: 1.75
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left3.127, top: 2.247
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left4.833, top: 2.253
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left1.675, top: 3.991
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left5.939, top: 3.991
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left2.917, top: 3.25
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left3.127, top: 3.25
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left4.833, top: 3.25
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left2.917, top: 4.243
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left3.127, top: 4.733
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left4.833, top: 4.74
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left2.424, top: 5.24
+INFO:ShiftPowerpoint:Processing AUTOSHAPE: RECTANGLE on slide 4 at left2.417, top: 1.25
+INFO:ShiftPowerpoint:Processing PICTURE on slide 5 at left: 0.156, top: 0.25
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-5/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 6 at left: 0.161, top: 0.312
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-6/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 7 at left: 0.031, top: 0.277
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-7/image_6.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 8 at left: 0.307, top: 0.281
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-8/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 9 at left: 0.364, top: 0.276
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-9/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 10 at left: 0.369, top: 0.312
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-10/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 11 at left: 0.359, top: 0.5
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-11/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 12 at left: 0.213, top: 0.151
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-12/image_3.png, name 'reader' is not defined
+INFO:ShiftPowerpoint:Processing PICTURE on slide 13 at left: 0.0, top: 0.572
+ERROR:ShiftPowerpoint: Conversion failed for ./pptx/scan/Y2024m09d27-H21M48S06/slide-13/image_3.png, name 'reader' is not defined

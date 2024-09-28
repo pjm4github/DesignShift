@@ -1,0 +1,158 @@
+{
+    "page text": [
+        {
+            "slide": 4,
+            "id": 2,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 1",
+            "left": 2209800,
+            "top": 2063702,
+            "width": 4349129,
+            "height": 908098,
+            "text": "NATIVE"
+        },
+        {
+            "slide": 4,
+            "id": 3,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 2",
+            "left": 2209800,
+            "top": 1600200,
+            "width": 4349129,
+            "height": 457200,
+            "text": "GRIDLABD CLASS"
+        },
+        {
+            "slide": 4,
+            "id": 4,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 3",
+            "left": 2859505,
+            "top": 2054535,
+            "width": 1447800,
+            "height": 457200,
+            "text": "XML"
+        },
+        {
+            "slide": 4,
+            "id": 5,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 4",
+            "left": 4419600,
+            "top": 2060551,
+            "width": 1447800,
+            "height": 457200,
+            "text": "JSON"
+        },
+        {
+            "slide": 4,
+            "id": 6,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 5",
+            "left": 1531878,
+            "top": 3649721,
+            "width": 1813043,
+            "height": 457200,
+            "text": "EVENTS"
+        },
+        {
+            "slide": 4,
+            "id": 7,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 6",
+            "left": 5430682,
+            "top": 3649721,
+            "width": 1813043,
+            "height": 457200,
+            "text": "CACHE"
+        },
+        {
+            "slide": 4,
+            "id": 8,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 7",
+            "left": 2667001,
+            "top": 2971799,
+            "width": 3441604,
+            "height": 908098,
+            "text": "MODE"
+        },
+        {
+            "slide": 4,
+            "id": 9,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 8",
+            "left": 2859505,
+            "top": 2971800,
+            "width": 1447800,
+            "height": 457200,
+            "text": "CLIENT"
+        },
+        {
+            "slide": 4,
+            "id": 10,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 9",
+            "left": 4419600,
+            "top": 2971800,
+            "width": 1447800,
+            "height": 457200,
+            "text": "SERVER"
+        },
+        {
+            "slide": 4,
+            "id": 11,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 10",
+            "left": 2667001,
+            "top": 3879897,
+            "width": 3441604,
+            "height": 908098,
+            "text": "TRANSPORT"
+        },
+        {
+            "slide": 4,
+            "id": 12,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 11",
+            "left": 2859505,
+            "top": 4327643,
+            "width": 1447800,
+            "height": 457200,
+            "text": "TCP"
+        },
+        {
+            "slide": 4,
+            "id": 13,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 12",
+            "left": 4419600,
+            "top": 4333946,
+            "width": 1447800,
+            "height": 457200,
+            "text": "UDP"
+        },
+        {
+            "slide": 4,
+            "id": 14,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 13",
+            "left": 2216675,
+            "top": 4791145,
+            "width": 4349129,
+            "height": 457200,
+            "text": "NETWORK"
+        },
+        {
+            "slide": 4,
+            "id": 15,
+            "type": "AUTOSHAPE: RECTANGLE",
+            "name": "Rectangle 14",
+            "left": 2209800,
+            "top": 1143000,
+            "width": 4349129,
+            "height": 457200,
+            "text": "GRIDLABD CORE"
+        }
+    ]
+}

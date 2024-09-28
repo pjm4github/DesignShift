@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.opengroup.org/xsd/archimate/3.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.0/archimate3_Diagram.xsd"
+    identifier="id-1234">
+  <name xml:lang="en">connection slide-11</name>
+  <elements>
+  </elements>
+  <!-- Relationships -->
+  <organizations>
+    <item>
+      <label xml:lang="en">Business</label>
+    </item>
+    <item>
+      <label xml:lang="en">Application</label>
+    </item>
+    <item>
+      <label xml:lang="en">Relations</label>
+    </item>
+    <item>
+      <label xml:lang="en">Views</label>
+      <item identifierRef="view-1" />
+    </item>
+  </organizations>
+  <views>
+    <diagrams>
+      <view xsi:type="Diagram" identifier="view-1">
+        <name>Context View</name>
+      </view>
+    </diagrams>
+  </views>
+</model>

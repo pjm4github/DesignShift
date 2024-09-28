@@ -1,0 +1,212 @@
+{
+    "graphics": [
+        {
+            "page-number": 1,
+            "type": "f",
+            "rectangle-corners": {
+                "x0": 0,
+                "y0": 0,
+                "x1": 12192000,
+                "y1": 6857999
+            },
+            "fill-color": null,
+            "stroke-color": null,
+            "color": null,
+            "width": null,
+            "pattern": null,
+            "layer": "",
+            "seqno": 0,
+            "fill": [
+                255,
+                255,
+                255
+            ],
+            "fill-opacity": 1.0,
+            "even-odd": true,
+            "stroke-opacity": null,
+            "line-cap": null,
+            "line-join": null,
+            "close-path": null,
+            "dashes": null
+        },
+        {
+            "page-number": 1,
+            "type": "s",
+            "rectangle": [
+                0,
+                0,
+                2433827,
+                1293876
+            ],
+            "quads": [],
+            "fill-color": null,
+            "stroke-color": null,
+            "color": [
+                23,
+                44,
+                81
+            ],
+            "width": 1.0,
+            "pattern": null,
+            "layer": "",
+            "seqno": 1,
+            "fill": null,
+            "fill-opacity": null,
+            "even-odd": null,
+            "stroke_opacity": 1.0,
+            "line-cap": [
+                0,
+                0,
+                0
+            ],
+            "line-join": 0.0,
+            "close-path": false,
+            "dashes": "[] 0"
+        },
+        {
+            "page-number": 1,
+            "type": "f",
+            "rectangle-corners": {
+                "x0": 1630679,
+                "y0": 2380488,
+                "x1": 8775191,
+                "y1": 3334511
+            },
+            "fill-color": null,
+            "stroke-color": null,
+            "color": null,
+            "width": null,
+            "pattern": null,
+            "layer": "",
+            "seqno": 4,
+            "fill": [
+                255,
+                255,
+                255
+            ],
+            "fill-opacity": 1.0,
+            "even-odd": true,
+            "stroke-opacity": null,
+            "line-cap": null,
+            "line-join": null,
+            "close-path": null,
+            "dashes": null
+        },
+        {
+            "page-number": 1,
+            "type": "f",
+            "rectangle-corners": {
+                "x0": 5317235,
+                "y0": 2781426,
+                "x1": 6251447,
+                "y1": 2787522
+            },
+            "fill-color": null,
+            "stroke-color": null,
+            "color": null,
+            "width": null,
+            "pattern": null,
+            "layer": "",
+            "seqno": 11,
+            "fill": [
+                4,
+                98,
+                193
+            ],
+            "fill-opacity": 1.0,
+            "even-odd": true,
+            "stroke-opacity": null,
+            "line-cap": null,
+            "line-join": null,
+            "close-path": null,
+            "dashes": null
+        },
+        {
+            "page-number": 1,
+            "type": "f",
+            "rectangle-corners": {
+                "x0": 1840992,
+                "y0": 2904870,
+                "x1": 2200655,
+                "y1": 2910966
+            },
+            "fill-color": null,
+            "stroke-color": null,
+            "color": null,
+            "width": null,
+            "pattern": null,
+            "layer": "",
+            "seqno": 15,
+            "fill": [
+                4,
+                98,
+                193
+            ],
+            "fill-opacity": 1.0,
+            "even-odd": true,
+            "stroke-opacity": null,
+            "line-cap": null,
+            "line-join": null,
+            "close-path": null,
+            "dashes": null
+        },
+        {
+            "page-number": 1,
+            "type": "f",
+            "rectangle-corners": {
+                "x0": 4448555,
+                "y0": 3026790,
+                "x1": 4701540,
+                "y1": 3032886
+            },
+            "fill-color": null,
+            "stroke-color": null,
+            "color": null,
+            "width": null,
+            "pattern": null,
+            "layer": "",
+            "seqno": 20,
+            "fill": [
+                4,
+                98,
+                193
+            ],
+            "fill-opacity": 1.0,
+            "even-odd": true,
+            "stroke-opacity": null,
+            "line-cap": null,
+            "line-join": null,
+            "close-path": null,
+            "dashes": null
+        },
+        {
+            "page-number": 1,
+            "type": "f",
+            "rectangle-corners": {
+                "x0": 7790688,
+                "y0": 3026790,
+                "x1": 8176259,
+                "y1": 3032886
+            },
+            "fill-color": null,
+            "stroke-color": null,
+            "color": null,
+            "width": null,
+            "pattern": null,
+            "layer": "",
+            "seqno": 23,
+            "fill": [
+                4,
+                98,
+                193
+            ],
+            "fill-opacity": 1.0,
+            "even-odd": true,
+            "stroke-opacity": null,
+            "line-cap": null,
+            "line-join": null,
+            "close-path": null,
+            "dashes": null
+        }
+    ]
+}

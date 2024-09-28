@@ -1,0 +1,515 @@
+{
+    "page-number": 1,
+    "page-size": {
+        "width": 12192000,
+        "height": 6858000
+    },
+    "text-layout": [
+        {
+            "text": "Graphics",
+            "font": "Calibri",
+            "size": 18.0,
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                812596,
+                723646
+            ],
+            "bbox": [
+                812596,
+                552196,
+                1619580,
+                780796
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "LOWERLEFTCORNER",
+            "font": "Calibri",
+            "size": 18.0,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                91439,
+                6768083
+            ],
+            "bbox": [
+                91439,
+                6596633,
+                1965495,
+                6825233
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "PDF files support elementary drawing operations as part of their syntax. These are",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                1722373,
+                2525903
+            ],
+            "bbox": [
+                1722373,
+                2449322,
+                5115991,
+                2551430
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " vector graphics",
+            "font": "Calibri-Bold",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 16,
+            "origin": [
+                5115991,
+                2525903
+            ],
+            "bbox": [
+                5115991,
+                2449322,
+                5780385,
+                2551430
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " and include basic geometrical objects like lines, curves, circles, ",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                5780385,
+                2525903
+            ],
+            "bbox": [
+                5780385,
+                2449322,
+                8400746,
+                2551430
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "rectangles including specifying colors.",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                1722373,
+                2649346
+            ],
+            "bbox": [
+                1722373,
+                2572765,
+                3281199,
+                2674873
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "The syntax for such operations is defined in \u201cA Operator Summary\u201d on page 643 of the",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                1722373,
+                2769742
+            ],
+            "bbox": [
+                1722373,
+                2693161,
+                5294171,
+                2795269
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " Adobe PDF References",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                4,
+                98,
+                193
+            ],
+            "flags": 0,
+            "origin": [
+                5294171,
+                2769742
+            ],
+            "bbox": [
+                5294171,
+                2693161,
+                6252170,
+                2795269
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": ". Specifying these operators for a PDF page happens in ",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                6252336,
+                2769742
+            ],
+            "bbox": [
+                6252336,
+                2693161,
+                8522711,
+                2795269
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "its",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                1722373,
+                2893186
+            ],
+            "bbox": [
+                1722373,
+                2816605,
+                1818751,
+                2918713
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " contents",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                4,
+                98,
+                193
+            ],
+            "flags": 0,
+            "origin": [
+                1818751,
+                2893186
+            ],
+            "bbox": [
+                1818751,
+                2816605,
+                2201290,
+                2918713
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " objects.",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                2201290,
+                2893186
+            ],
+            "bbox": [
+                2201290,
+                2816605,
+                2548510,
+                2918713
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "PyMuPDF",
+            "font": "Calibri-Bold",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 16,
+            "origin": [
+                1722373,
+                3015107
+            ],
+            "bbox": [
+                1722373,
+                2938526,
+                2134684,
+                3040633
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " implements a large part of the available features via its",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                2134684,
+                3015107
+            ],
+            "bbox": [
+                2134684,
+                2938526,
+                4424363,
+                3040633
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " Shape",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                4,
+                98,
+                193
+            ],
+            "flags": 0,
+            "origin": [
+                4424363,
+                3015107
+            ],
+            "bbox": [
+                4424363,
+                2938526,
+                4702884,
+                3040633
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " class, which is comparable to notions like \u201ccanvas\u201d in other packages (e.g.",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                4702884,
+                3015107
+            ],
+            "bbox": [
+                4702884,
+                2938526,
+                7770348,
+                3040633
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " reportlab",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                4,
+                98,
+                193
+            ],
+            "flags": 0,
+            "origin": [
+                7770348,
+                3015107
+            ],
+            "bbox": [
+                7770348,
+                2938526,
+                8177585,
+                3040633
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": ").",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                8177148,
+                3015107
+            ],
+            "bbox": [
+                8177148,
+                2938526,
+                8233405,
+                3040633
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "A shape is always created as a",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                1722373,
+                3135503
+            ],
+            "bbox": [
+                1722373,
+                3058922,
+                2959924,
+                3161030
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": " child of a page",
+            "font": "Calibri-Bold",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 16,
+            "origin": [
+                2959924,
+                3135503
+            ],
+            "bbox": [
+                2959924,
+                3058922,
+                3593167,
+                3161030
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": ", usually with an instruction like shape = page.new_shape(). The class defines numerous methods that perform drawing ",
+            "font": "Calibri",
+            "size": 8.039999961853027,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                3593846,
+                3135503
+            ],
+            "bbox": [
+                3593846,
+                3058922,
+                8542082,
+                3161030
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        },
+        {
+            "text": "operations on the page\u2019s area. For example, last_point = shape.draw_rect(rect) draws a rectangle along the borders of a suitably defined rect = pymupdf.Rect(...).",
+            "font": "Calibri",
+            "size": 8.064000129699707,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "flags": 0,
+            "origin": [
+                1722373,
+                3258946
+            ],
+            "bbox": [
+                1722373,
+                3182137,
+                8393502,
+                3284549
+            ],
+            "ascender": 0.75,
+            "descender": -0.25
+        }
+    ]
+}

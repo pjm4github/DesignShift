@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.opengroup.org/xsd/archimate/3.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.0/archimate3_Diagram.xsd"
+    identifier="id-1234">
+  <name xml:lang="en">connection slide-3</name>
+  <elements>
+  </elements>
+  <relationships>
+    <relationship xsi:type="Association" identifier="rel-12" source="app-11" target="app-5">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-13" source="app-8" target="app-7">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-14" source="app-11" target="app-8">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-15" source="app-11" target="app-9">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-16" source="app-11" target="app-10">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-17" source="app-9" target="app-8">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-18" source="app-10" target="app-8">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-19" source="app-7" target="app-4">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-20" source="app-4" target="app-2">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-21" source="app-4" target="app-3">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-22" source="app-11" target="app-6">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-23" source="app-5" target="app-4">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-24" source="app-6" target="app-4">
+        <documentation>none</documentation>
+    </relationship>
+    <relationship xsi:type="Association" identifier="rel-26" source="app-25" target="app-4">
+        <documentation>none</documentation>
+    </relationship>
+  </relationships>
+  <organizations>
+    <item>
+      <label xml:lang="en">Business</label>
+    </item>
+    <item>
+      <label xml:lang="en">Application</label>
+    </item>
+    <item>
+      <label xml:lang="en">Relations</label>
+      <item identifierRef="rel-12" />
+      <item identifierRef="rel-13" />
+      <item identifierRef="rel-14" />
+      <item identifierRef="rel-15" />
+      <item identifierRef="rel-16" />
+      <item identifierRef="rel-17" />
+      <item identifierRef="rel-18" />
+      <item identifierRef="rel-19" />
+      <item identifierRef="rel-20" />
+      <item identifierRef="rel-21" />
+      <item identifierRef="rel-22" />
+      <item identifierRef="rel-23" />
+      <item identifierRef="rel-24" />
+      <item identifierRef="rel-26" />
+    </item>
+    <item>
+      <label xml:lang="en">Views</label>
+      <item identifierRef="view-1" />
+    </item>
+  </organizations>
+  <views>
+    <diagrams>
+      <view xsi:type="Diagram" identifier="view-1">
+        <name>Context View</name>
+        <connection identifier="id-connector12" relationshipRef="rel-12" xsi:type="Relationship" source="id-instance11" target="id-instance5"></connection>
+        <connection identifier="id-connector13" relationshipRef="rel-13" xsi:type="Relationship" source="id-instance8" target="id-instance7"></connection>
+        <connection identifier="id-connector14" relationshipRef="rel-14" xsi:type="Relationship" source="id-instance11" target="id-instance8"></connection>
+        <connection identifier="id-connector15" relationshipRef="rel-15" xsi:type="Relationship" source="id-instance11" target="id-instance9"></connection>
+        <connection identifier="id-connector16" relationshipRef="rel-16" xsi:type="Relationship" source="id-instance11" target="id-instance10"></connection>
+        <connection identifier="id-connector17" relationshipRef="rel-17" xsi:type="Relationship" source="id-instance9" target="id-instance8"></connection>
+        <connection identifier="id-connector18" relationshipRef="rel-18" xsi:type="Relationship" source="id-instance10" target="id-instance8"></connection>
+        <connection identifier="id-connector19" relationshipRef="rel-19" xsi:type="Relationship" source="id-instance7" target="id-instance4"></connection>
+        <connection identifier="id-connector20" relationshipRef="rel-20" xsi:type="Relationship" source="id-instance4" target="id-instance2"></connection>
+        <connection identifier="id-connector21" relationshipRef="rel-21" xsi:type="Relationship" source="id-instance4" target="id-instance3"></connection>
+        <connection identifier="id-connector22" relationshipRef="rel-22" xsi:type="Relationship" source="id-instance11" target="id-instance6"></connection>
+        <connection identifier="id-connector23" relationshipRef="rel-23" xsi:type="Relationship" source="id-instance5" target="id-instance4"></connection>
+        <connection identifier="id-connector24" relationshipRef="rel-24" xsi:type="Relationship" source="id-instance6" target="id-instance4"></connection>
+        <connection identifier="id-connector26" relationshipRef="rel-26" xsi:type="Relationship" source="id-instance25" target="id-instance4"></connection>
+      </view>
+    </diagrams>
+  </views>
+</model>
