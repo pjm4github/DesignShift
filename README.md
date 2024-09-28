@@ -4,7 +4,8 @@
 
 April 2024 (See ChatGPT)
 
-A collection of tools for expressing design ideas. 
+A collection of tools for converting Architecture formats. Allows the use of PowerPoint as an entry tool that can then be converted to standard tools, like C4 and Structurizr.
+
 ### Overview
 This application leverages the EasyOCR library to perform text recognition on images. It is designed to quickly and accurately extract text from various image formats, supporting multiple languages.
 
@@ -85,6 +86,21 @@ if __name__ == "__main__":
 
 Replace `my_pdf_file` with the file name to convert. Place the incoming file in the incoming directory. 
 
+Conversion is available for all these formats:
+
+|                 | **PDF** | **PPTX** | **Archi** | **Structurizr** | **PNG** | **JSON** |
+|-----------------|---------|----------|-----------|-----------------|---------|----------|
+| **PDF**         |         | ->       |           |                 | ->      |          |
+| **PPTX**        |         |          |           |                 |         | ->       |
+| **Archi**       |         |          |           |                 |         | ->       |
+| **Structurizr** |         | ->       |           |                 |         | ->       |
+| **PNG**         | ->      | ->       |           |                 |         |          |
+| **JSON**        |         | ->       | ->        | ->              |         |          |
+
+A `->` entry in the table indicates a conversion path from that row type to that column type.
+
+This is an imcomplete set of work. Mostly focuses on PPTX <-> JSON conversion. 
+
 ### Contributing
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or fixes.
@@ -95,6 +111,5 @@ If you encounter any problems or have any queries regarding the application, ple
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+This project is licensed under the BSD 3-Clause License - see the LICENSE file for details.
 
